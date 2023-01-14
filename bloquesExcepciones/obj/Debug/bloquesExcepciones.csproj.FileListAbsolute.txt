@@ -1,0 +1,8 @@
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\bin\Debug\bloquesExcepciones.exe.config
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\bin\Debug\bloquesExcepciones.exe
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\bin\Debug\bloquesExcepciones.pdb
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\obj\Debug\bloquesExcepciones.csproj.AssemblyReference.cache
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\obj\Debug\bloquesExcepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\obj\Debug\bloquesExcepciones.csproj.CoreCompileInputs.cache
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\obj\Debug\bloquesExcepciones.exe
+C:\Users\JC\source\repos\bloquesExcepciones\bloquesExcepciones\obj\Debug\bloquesExcepciones.pdb
